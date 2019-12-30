@@ -1,0 +1,324 @@
+area_id,areaname,ceiling,cloud_cover,condition,dew_point,humidity,pressure,province,temperature,timestamp,url,uv_index,visibility,wind,wind_gust
+3484132,Lasa',1646 m,86%,Thunderstorm,21°,84%,1009.40 mbar,West Sulawesi,24°,3:38 PM,https://www.accuweather.com/en/id/Lasa'/3484132/current-weather/3484132,1 Low,2 km,ENE at 14 km/h,20 km/h
+211671,Yogyakarta,1859 m,88%,Mostly cloudy,23°,60%,1008.40 mbar,Yogyakarta,31°,2:38 PM,https://www.accuweather.com/en/id/Yogyakarta/211671/current-weather/211671,2 Low,8 km,NNW at 14 km/h,19 km/h
+3431577,Umbulharjo,1859 m,88%,Mostly cloudy,23°,60%,1008.40 mbar,Yogyakarta,31°,2:38 PM,https://www.accuweather.com/en/id/Umbulharjo/3431577/current-weather/3431577,2 Low,8 km,NNW at 14 km/h,19 km/h
+3460335,Wedomartani,1859 m,88%,Mostly cloudy,23°,60%,1008.40 mbar,Yogyakarta,31°,2:38 PM,https://www.accuweather.com/en/id/Wedomartani/3460335/current-weather/3460335,2 Low,8 km,NNW at 14 km/h,19 km/h
+202598,Cibitung,1768 m,62%,Clouds and sun,23°,58%,1008.00 mbar,West Java,32°,2:38 PM,https://www.accuweather.com/en/id/Cibitung/202598/current-weather/202598,4 Moderate,10 km,NW at 16 km/h,23 km/h
+206184,Ujuang Gadiang,1646 m,82%,Mostly cloudy,22°,66%,1009.50 mbar,West Sumatra,29°,2:38 PM,https://www.accuweather.com/en/id/Ujuang-Gadiang/206184/current-weather/206184,2 Low,8 km,SW at 8 km/h,11 km/h
+205755,Wotu,1707 m,91%,Thunderstorm,26°,75%,1009.20 mbar,South Sulawesi,31°,3:38 PM,https://www.accuweather.com/en/id/Wotu/205755/current-weather/205755,1 Low,6 km,NNE at 12 km/h,17 km/h
+205754,Watan Soppeng,732 m,79%,Mostly cloudy,24°,63%,1008.50 mbar,South Sulawesi,31°,3:38 PM,https://www.accuweather.com/en/id/Watan-Soppeng/205754/current-weather/205754,2 Low,3 km,E at 16 km/h,27 km/h
+1970538,Langgini,427 m,88%,A shower,25°,75%,1008.90 mbar,Riau,29°,2:38 PM,https://www.accuweather.com/en/id/Langgini/1970538/current-weather/1970538,1 Low,8 km,WNW at 10 km/h,14 km/h
+3450030,Tiban Lama,1676 m,63%,Clouds and sun,23°,61%,1010.00 mbar,Riau Islands,31°,2:38 PM,https://www.accuweather.com/en/id/Tiban-Lama/3450030/current-weather/3450030,3 Moderate,16 km,NE at 9 km/h,13 km/h
+204185,Moro,1737 m,75%,Hazy sunshine,23°,66%,1009.10 mbar,Riau Islands,30°,2:38 PM,https://www.accuweather.com/en/id/Moro/204185/current-weather/204185,2 Low,11 km,E at 18 km/h,25 km/h
+3450031,Tiban Indah,1676 m,63%,Clouds and sun,23°,61%,1010.00 mbar,Riau Islands,31°,2:38 PM,https://www.accuweather.com/en/id/Tiban-Indah/3450031/current-weather/3450031,3 Moderate,16 km,NE at 9 km/h,13 km/h
+3478709,Winangun I,1311 m,35%,Partly sunny,24°,69%,1010.00 mbar,North Sulawesi,30°,3:38 PM,https://www.accuweather.com/en/id/Winangun-I/3478709/current-weather/3478709,3 Moderate,16 km,N at 13 km/h,13 km/h
+204993,Tobelo,1646 m,75%,Hazy sunshine,24°,68%,1009.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tobelo/204993/current-weather/204993,1 Low,16 km,E at 9 km/h,12 km/h
+3431317,Tidore Utara,1646 m,38%,Partly sunny,26°,79%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tidore-Utara/3431317/current-weather/3431317,2 Low,16 km,NW at 17 km/h,23 km/h
+3431320,Tidore Selatan,1646 m,38%,Partly sunny,26°,79%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tidore-Selatan/3431320/current-weather/3431320,2 Low,16 km,NW at 17 km/h,23 km/h
+3430612,Tidore Kepulauan,1646 m,38%,Partly sunny,26°,79%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tidore-Kepulauan/3430612/current-weather/3430612,2 Low,16 km,NW at 17 km/h,23 km/h
+3431319,Tidore Timur,1646 m,38%,Partly sunny,26°,79%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tidore-Timur/3431319/current-weather/3431319,2 Low,16 km,NW at 17 km/h,23 km/h
+204992,Tidore,1646 m,38%,Partly sunny,26°,79%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tidore/204992/current-weather/204992,2 Low,16 km,NW at 17 km/h,23 km/h
+3431637,Ternate Utara,1646 m,38%,Partly sunny,26°,79%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Ternate-Utara/3431637/current-weather/3431637,2 Low,16 km,NW at 17 km/h,23 km/h
+3445498,Tuan Kentang,1646 m,75%,Thunderstorm,25°,72%,1009.90 mbar,South Sumatra,31°,2:38 PM,https://www.accuweather.com/en/id/Tuan-Kentang/3445498/current-weather/3445498,2 Low,10 km,N at 19 km/h,23 km/h
+675919,Wonreli,9144 m,40%,Partly sunny,24°,68%,1008.10 mbar,Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Wonreli/675919/current-weather/675919,3 Moderate,10 km,WSW at 10 km/h,14 km/h
+3484496,Wamlana,7894 m,55%,Clouds and sun,20°,84%,1008.60 mbar,Maluku,23°,4:38 PM,https://www.accuweather.com/en/id/Wamlana/3484496/current-weather/3484496,2 Low,11 km,NNE at 30 km/h,44 km/h
+3484861,Waiyame,1981 m,35%,Partly sunny,24°,59%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Waiyame/3484861/current-weather/3484861,2 Low,16 km,SSW at 11 km/h,13 km/h
+3484854,Waiheru,1981 m,35%,Partly sunny,24°,59%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Waiheru/3484854/current-weather/3484854,2 Low,16 km,SSW at 11 km/h,13 km/h
+3484597,Waimital,1798 m,61%,Clouds and sun,22°,56%,1008.10 mbar,Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Waimital/3484597/current-weather/3484597,1 Low,16 km,W at 13 km/h,16 km/h
+204854,Wahai,549 m,68%,Clouds and sun,25°,79%,1008.50 mbar,Maluku,29°,4:38 PM,https://www.accuweather.com/en/id/Wahai/204854/current-weather/204854,1 Low,6 km,WNW at 11 km/h,16 km/h
+676389,Waai,1798 m,61%,Clouds and sun,22°,56%,1008.10 mbar,Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Waai/676389/current-weather/676389,1 Low,16 km,W at 13 km/h,16 km/h
+3484578,Waesala,1798 m,72%,Clouds and sun,23°,66%,1008.10 mbar,Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Waesala/3484578/current-weather/3484578,1 Low,16 km,N at 13 km/h,17 km/h
+3484828,Urimesing,1951 m,16%,Mostly sunny,23°,57%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Urimesing/3484828/current-weather/3484828,2 Low,16 km,NNE at 14 km/h,19 km/h
+204880,Tulehu,1798 m,61%,Clouds and sun,22°,56%,1008.10 mbar,Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Tulehu/204880/current-weather/204880,1 Low,16 km,W at 13 km/h,16 km/h
+3484881,Tual,1646 m,80%,Mostly cloudy,26°,69%,1007.80 mbar,Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Tual/3484881/current-weather/3484881,1 Low,11 km,W at 12 km/h,15 km/h
+3431448,Teluk Ambon Baguala,1981 m,35%,Partly sunny,24°,59%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Teluk-Ambon-Baguala/3431448/current-weather/3431448,2 Low,16 km,SSW at 11 km/h,13 km/h
+204855,Tual,1646 m,80%,Mostly cloudy,26°,69%,1007.80 mbar,Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Tual/204855/current-weather/204855,1 Low,11 km,W at 12 km/h,15 km/h
+3431450,Teluk Ambon,1981 m,35%,Partly sunny,24°,59%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Teluk-Ambon/3431450/current-weather/3431450,2 Low,16 km,SSW at 11 km/h,13 km/h
+204878,Tehoru,1798 m,70%,Clouds and sun,23°,74%,1008.50 mbar,Maluku,28°,4:38 PM,https://www.accuweather.com/en/id/Tehoru/204878/current-weather/204878,1 Low,16 km,W at 11 km/h,16 km/h
+3431493,Tayando Tam,1646 m,87%,Mostly cloudy,24°,69%,1007.80 mbar,Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tayando-Tam/3431493/current-weather/3431493,1 Low,11 km,NW at 11 km/h,15 km/h
+3484351,Tamilouw,1646 m,49%,Partly sunny,27°,75%,1008.60 mbar,Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Tamilouw/3484351/current-weather/3484351,2 Low,16 km,S at 8 km/h,13 km/h
+1669118,Taar,1646 m,80%,Mostly cloudy,26°,69%,1007.80 mbar,Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Taar/1669118/current-weather/1669118,1 Low,11 km,W at 12 km/h,15 km/h
+204979,Tahalupu,1768 m,35%,Partly sunny,24°,63%,1008.60 mbar,Maluku,31°,4:38 PM,https://www.accuweather.com/en/id/Tahalupu/204979/current-weather/204979,2 Low,16 km,NNW at 18 km/h,25 km/h
+3484404,Suli,1981 m,35%,Partly sunny,24°,59%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Suli/3484404/current-weather/3484404,2 Low,16 km,SSW at 11 km/h,13 km/h
+3484833,Soya,1951 m,16%,Mostly sunny,23°,57%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Soya/3484833/current-weather/3484833,2 Low,16 km,NNE at 14 km/h,19 km/h
+3484551,Siwalima,1646 m,86%,Mostly cloudy,24°,66%,1007.70 mbar,Maluku,31°,4:38 PM,https://www.accuweather.com/en/id/Siwalima/3484551/current-weather/3484551,1 Low,10 km,NNW at 11 km/h,15 km/h
+3431451,Sirimau,1981 m,35%,Partly sunny,24°,59%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Sirimau/3431451/current-weather/3431451,2 Low,16 km,SSW at 11 km/h,13 km/h
+3484350,Sepa,1768 m,63%,A shower,21°,73%,1008.60 mbar,Maluku,26°,4:38 PM,https://www.accuweather.com/en/id/Sepa/3484350/current-weather/3484350,1 Low,8 km,WNW at 16 km/h,22 km/h
+3431494,Pulau Dullah Selatan,1646 m,80%,Mostly cloudy,26°,69%,1007.80 mbar,Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Pulau-Dullah-Selatan/3431494/current-weather/3431494,1 Low,11 km,W at 12 km/h,15 km/h
+204853,Piru,1798 m,38%,Partly sunny,23°,67%,1008.70 mbar,Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Piru/204853/current-weather/204853,2 Low,16 km,WNW at 16 km/h,22 km/h
+858,Pelauw,1798 m,61%,Clouds and sun,22°,56%,1008.10 mbar,Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Pelauw/858/current-weather/858,1 Low,16 km,W at 13 km/h,16 km/h
+3484843,Pandan Kasturi,1981 m,35%,Partly sunny,24°,59%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Pandan-Kasturi/3484843/current-weather/3484843,2 Low,16 km,SSW at 11 km/h,13 km/h
+204975,Saumlaki,1981 m,76%,Mostly cloudy,27°,78%,1008.10 mbar,Maluku,31°,4:38 PM,https://www.accuweather.com/en/id/Saumlaki/204975/current-weather/204975,1 Low,13 km,N at 0 km/h,0 km/h
+3484862,Rumah Tiga,1981 m,35%,Partly sunny,24°,59%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Rumah-Tiga/3484862/current-weather/3484862,2 Low,16 km,SSW at 11 km/h,13 km/h
+1629543,Olilit,1981 m,76%,Mostly cloudy,27°,78%,1008.10 mbar,Maluku,31°,4:38 PM,https://www.accuweather.com/en/id/Olilit/1629543/current-weather/1629543,1 Low,13 km,N at 0 km/h,0 km/h
+204852,Passo,1981 m,35%,Partly sunny,24°,59%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Passo/204852/current-weather/204852,2 Low,16 km,SSW at 11 km/h,13 km/h
+204870,Namlea,1676 m,38%,Partly sunny,24°,70%,1008.80 mbar,Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Namlea/204870/current-weather/204870,2 Low,16 km,N at 22 km/h,31 km/h
+3431748,Nusaniwe,1981 m,35%,Partly sunny,24°,59%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Nusaniwe/3431748/current-weather/3431748,2 Low,16 km,SSW at 11 km/h,13 km/h
+3484358,Namaelo,1646 m,49%,Partly sunny,27°,75%,1008.60 mbar,Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Namaelo/3484358/current-weather/3484358,2 Low,16 km,S at 8 km/h,13 km/h
+3431492,Pulau Dullah Utara,1646 m,80%,Mostly cloudy,26°,69%,1007.80 mbar,Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Pulau-Dullah-Utara/3431492/current-weather/3431492,1 Low,11 km,W at 12 km/h,15 km/h
+204947,Luhu,1798 m,38%,Partly sunny,23°,67%,1008.70 mbar,Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Luhu/204947/current-weather/204947,2 Low,16 km,WNW at 16 km/h,22 km/h
+3484594,Lokki,1798 m,38%,Partly sunny,23°,67%,1008.70 mbar,Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Lokki/3484594/current-weather/3484594,2 Low,16 km,WNW at 16 km/h,22 km/h
+3484355,Letwaru,1646 m,49%,Partly sunny,27°,75%,1008.60 mbar,Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Letwaru/3484355/current-weather/3484355,2 Low,16 km,S at 8 km/h,13 km/h
+204943,Liang,1798 m,61%,Clouds and sun,22°,56%,1008.10 mbar,Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Liang/204943/current-weather/204943,1 Low,16 km,W at 13 km/h,16 km/h
+3431449,Leitimur Selatan,1981 m,35%,Partly sunny,24°,59%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Leitimur-Selatan/3431449/current-weather/3431449,2 Low,16 km,SSW at 11 km/h,13 km/h
+204938,Latuhalat,1981 m,35%,Partly sunny,24°,59%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Latuhalat/204938/current-weather/204938,2 Low,16 km,SSW at 11 km/h,13 km/h
+3484857,Lateri,1981 m,35%,Partly sunny,24°,59%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Lateri/3484857/current-weather/3484857,2 Low,16 km,SSW at 11 km/h,13 km/h
+683448,Langgur,1646 m,80%,Mostly cloudy,26°,69%,1007.80 mbar,Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Langgur/683448/current-weather/683448,1 Low,11 km,W at 12 km/h,15 km/h
+210345,Laha,1981 m,35%,Partly sunny,24°,59%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Laha/210345/current-weather/210345,2 Low,16 km,SSW at 11 km/h,13 km/h
+3484671,Kiltai,1646 m,45%,Partly sunny,25°,63%,1008.30 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Kiltai/3484671/current-weather/3484671,2 Low,16 km,NNE at 8 km/h,10 km/h
+3484247,Kilon,1981 m,86%,Mostly cloudy,26°,76%,1007.70 mbar,Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Kilon/3484247/current-weather/3484247,1 Low,10 km,SSW at 1 km/h,2 km/h
+3484679,Kilmury,1646 m,45%,Partly sunny,25°,63%,1008.30 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Kilmury/3484679/current-weather/3484679,2 Low,16 km,NNE at 8 km/h,10 km/h
+3484675,Kilmoy,1646 m,45%,Partly sunny,25°,63%,1008.30 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Kilmoy/3484675/current-weather/3484675,2 Low,16 km,NNE at 8 km/h,10 km/h
+3484262,Kilmasa,1981 m,86%,Mostly cloudy,26°,76%,1007.70 mbar,Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Kilmasa/3484262/current-weather/3484262,1 Low,10 km,SSW at 1 km/h,2 km/h
+3484664,Kilkoda,1707 m,41%,Partly sunny,24°,72%,1008.20 mbar,Maluku,29°,4:38 PM,https://www.accuweather.com/en/id/Kilkoda/3484664/current-weather/3484664,3 Moderate,16 km,WNW at 11 km/h,16 km/h
+3484688,Kilga Kilwouw,1646 m,45%,Partly sunny,25°,63%,1008.30 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Kilga-Kilwouw/3484688/current-weather/3484688,2 Low,16 km,NNE at 8 km/h,10 km/h
+3484676,Kilbat,1646 m,45%,Partly sunny,25°,63%,1008.30 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Kilbat/3484676/current-weather/3484676,2 Low,16 km,NNE at 8 km/h,10 km/h
+3484847,Kilang,1981 m,35%,Partly sunny,24°,59%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Kilang/3484847/current-weather/3484847,2 Low,16 km,SSW at 11 km/h,13 km/h
+1672041,Kianlaut,1646 m,45%,Partly sunny,25°,63%,1008.30 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Kianlaut/1672041/current-weather/1672041,2 Low,16 km,NNE at 8 km/h,10 km/h
+684166,Kiandarat,1646 m,45%,Partly sunny,25°,63%,1008.30 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Kiandarat/684166/current-weather/684166,2 Low,16 km,NNE at 8 km/h,10 km/h
+3484689,Kilga Watubau,1646 m,45%,Partly sunny,25°,63%,1008.30 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Kilga-Watubau/3484689/current-weather/3484689,2 Low,16 km,NNE at 8 km/h,10 km/h
+3484746,Ketty,9144 m,67%,Clouds and sun,23°,81%,1008.40 mbar,Maluku,27°,4:38 PM,https://www.accuweather.com/en/id/Ketty/3484746/current-weather/3484746,2 Low,10 km,WSW at 14 km/h,18 km/h
+1672038,Keta,1646 m,45%,Partly sunny,25°,63%,1008.30 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Keta/1672038/current-weather/1672038,2 Low,16 km,NNE at 8 km/h,10 km/h
+3484673,Kellu,1646 m,45%,Partly sunny,25°,63%,1008.30 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Kellu/3484673/current-weather/3484673,2 Low,16 km,NNE at 8 km/h,10 km/h
+3484242,Keliober,1829 m,86%,Mostly cloudy,24°,69%,1007.70 mbar,Maluku,31°,4:38 PM,https://www.accuweather.com/en/id/Keliober/3484242/current-weather/3484242,1 Low,10 km,WSW at 6 km/h,8 km/h
+3484649,Kelibingan,1707 m,41%,Partly sunny,24°,72%,1008.20 mbar,Maluku,29°,4:38 PM,https://www.accuweather.com/en/id/Kelibingan/3484649/current-weather/3484649,3 Moderate,16 km,WNW at 11 km/h,16 km/h
+3484656,Keldor,1646 m,54%,Clouds and sun,24°,69%,1008.10 mbar,Maluku,31°,4:38 PM,https://www.accuweather.com/en/id/Keldor/3484656/current-weather/3484656,1 Low,11 km,NW at 10 km/h,14 km/h
+3484276,Kelanit,1646 m,80%,Mostly cloudy,26°,69%,1007.80 mbar,Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Kelanit/3484276/current-weather/3484276,1 Low,11 km,W at 12 km/h,15 km/h
+1677190,Kelangan,1646 m,54%,Clouds and sun,24°,69%,1008.10 mbar,Maluku,31°,4:38 PM,https://www.accuweather.com/en/id/Kelangan/1677190/current-weather/1677190,1 Low,11 km,NW at 10 km/h,14 km/h
+3484586,Kelang Asaude,1768 m,37%,Partly sunny,24°,67%,1008.60 mbar,Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Kelang-Asaude/3484586/current-weather/3484586,2 Low,16 km,N at 18 km/h,25 km/h
+872,Kelaan,1829 m,86%,Mostly cloudy,24°,69%,1007.70 mbar,Maluku,31°,4:38 PM,https://www.accuweather.com/en/id/Kelaan/872/current-weather/872,1 Low,10 km,WSW at 6 km/h,8 km/h
+3484274,Kel. Ohoijang Watdek,1646 m,80%,Mostly cloudy,26°,69%,1007.80 mbar,Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Kel.-Ohoijang-Watdek/3484274/current-weather/3484274,1 Low,11 km,W at 12 km/h,15 km/h
+3484826,Kel Wainitu,1981 m,35%,Partly sunny,24°,59%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Kel-Wainitu/3484826/current-weather/3484826,2 Low,16 km,SSW at 11 km/h,13 km/h
+3484883,Kel. Lodar El,1646 m,80%,Mostly cloudy,26°,69%,1007.80 mbar,Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Kel.-Lodar-El/3484883/current-weather/3484883,1 Low,11 km,W at 12 km/h,15 km/h
+3484880,Kel. Ketsoblak,1646 m,80%,Mostly cloudy,26°,69%,1007.80 mbar,Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Kel.-Ketsoblak/3484880/current-weather/3484880,1 Low,11 km,W at 12 km/h,15 km/h
+3484831,Kel Waihaong,1981 m,35%,Partly sunny,24°,59%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Kel-Waihaong/3484831/current-weather/3484831,2 Low,16 km,SSW at 11 km/h,13 km/h
+3484841,Kel Rijali,1981 m,35%,Partly sunny,24°,59%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Kel-Rijali/3484841/current-weather/3484841,2 Low,16 km,SSW at 11 km/h,13 km/h
+3484824,Kel Nusaniwe,1981 m,35%,Partly sunny,24°,59%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Kel-Nusaniwe/3484824/current-weather/3484824,2 Low,16 km,SSW at 11 km/h,13 km/h
+3484827,Kel Kudamati,1981 m,35%,Partly sunny,24°,59%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Kel-Kudamati/3484827/current-weather/3484827,2 Low,16 km,SSW at 11 km/h,13 km/h
+3484835,Kel Karang Panjang,1981 m,35%,Partly sunny,24°,59%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Kel-Karang-Panjang/3484835/current-weather/3484835,2 Low,16 km,SSW at 11 km/h,13 km/h
+3484825,Kel Benteng,1981 m,35%,Partly sunny,24°,59%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Kel-Benteng/3484825/current-weather/3484825,2 Low,16 km,SSW at 11 km/h,13 km/h
+3484837,Kel Batu Gaja,1951 m,16%,Mostly sunny,23°,57%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Kel-Batu-Gaja/3484837/current-weather/3484837,2 Low,16 km,NNE at 14 km/h,19 km/h
+3484836,Kel Batu Meja,1951 m,16%,Mostly sunny,23°,57%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Kel-Batu-Meja/3484836/current-weather/3484836,2 Low,16 km,NNE at 14 km/h,19 km/h
+210341,Kataloka,1707 m,41%,Partly sunny,24°,72%,1008.20 mbar,Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Kataloka/210341/current-weather/210341,2 Low,16 km,WNW at 11 km/h,15 km/h
+3484842,Kel Amantelu,1981 m,35%,Partly sunny,24°,59%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Kel-Amantelu/3484842/current-weather/3484842,2 Low,16 km,SSW at 11 km/h,13 km/h
+3484602,Kamal,1798 m,61%,Clouds and sun,22°,56%,1008.10 mbar,Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Kamal/3484602/current-weather/3484602,1 Low,16 km,W at 13 km/h,16 km/h
+204926,Kairatu,1798 m,61%,Clouds and sun,22°,56%,1008.10 mbar,Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Kairatu/204926/current-weather/204926,1 Low,16 km,W at 13 km/h,16 km/h
+3484332,Haya,1798 m,70%,Clouds and sun,23°,74%,1008.50 mbar,Maluku,28°,4:38 PM,https://www.accuweather.com/en/id/Haya/3484332/current-weather/3484332,1 Low,16 km,W at 11 km/h,16 km/h
+685549,Hitu Mesing,1951 m,16%,Mostly sunny,23°,57%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Hitu-Mesing/685549/current-weather/685549,2 Low,16 km,NNE at 14 km/h,19 km/h
+685568,Hila,1981 m,35%,Partly sunny,24°,59%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Hila/685568/current-weather/685568,2 Low,16 km,SSW at 11 km/h,13 km/h
+3484844,Hative Kecil,1981 m,35%,Partly sunny,24°,59%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Hative-Kecil/3484844/current-weather/3484844,2 Low,16 km,SSW at 11 km/h,13 km/h
+3484860,Hative Besar,1981 m,35%,Partly sunny,24°,59%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Hative-Besar/3484860/current-weather/3484860,2 Low,16 km,SSW at 11 km/h,13 km/h
+685600,Haruru,1646 m,49%,Partly sunny,27°,75%,1008.60 mbar,Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Haruru/685600/current-weather/685600,2 Low,16 km,S at 8 km/h,13 km/h
+3484839,Kel Honipopu,1981 m,35%,Partly sunny,24°,59%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Kel-Honipopu/3484839/current-weather/3484839,2 Low,16 km,SSW at 11 km/h,13 km/h
+685604,Haria,1737 m,41%,Partly sunny,21°,53%,1008.50 mbar,Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Haria/685604/current-weather/685604,2 Low,16 km,S at 11 km/h,16 km/h
+3484589,Etty,1798 m,38%,Partly sunny,23°,67%,1008.70 mbar,Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Etty/3484589/current-weather/3484589,2 Low,16 km,WNW at 16 km/h,22 km/h
+685632,Halong,1981 m,35%,Partly sunny,24°,59%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Halong/685632/current-weather/685632,2 Low,16 km,SSW at 11 km/h,13 km/h
+3484550,Galay Dubu,1646 m,86%,Mostly cloudy,24°,66%,1007.70 mbar,Maluku,31°,4:38 PM,https://www.accuweather.com/en/id/Galay-Dubu/3484550/current-weather/3484550,1 Low,10 km,NNW at 11 km/h,15 km/h
+204902,Bula,1737 m,54%,Clouds and sun,24°,63%,1008.30 mbar,Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Bula/204902/current-weather/204902,1 Low,16 km,WNW at 9 km/h,14 km/h
+3484580,Buano Utara,1798 m,38%,Partly sunny,23°,67%,1008.70 mbar,Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Buano-Utara/3484580/current-weather/3484580,2 Low,16 km,WNW at 16 km/h,22 km/h
+688127,Batu Merah,1981 m,35%,Partly sunny,24°,59%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Batu-Merah/688127/current-weather/688127,2 Low,16 km,SSW at 11 km/h,13 km/h
+3484357,Ampera,1646 m,49%,Partly sunny,27°,75%,1008.60 mbar,Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Ampera/3484357/current-weather/3484357,2 Low,16 km,S at 8 km/h,13 km/h
+204850,Ambon,1981 m,35%,Partly sunny,24°,59%,1008.50 mbar,Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Ambon/204850/current-weather/204850,2 Low,16 km,SSW at 11 km/h,13 km/h
+3431247,Tarakan Utara,1646 m,76%,Mostly cloudy,26°,75%,1010.40 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Tarakan-Utara/3431247/current-weather/3431247,2 Low,10 km,E at 9 km/h,13 km/h
+3484645,Amarsekaru,1707 m,41%,Partly sunny,24°,72%,1008.20 mbar,Maluku,29°,4:38 PM,https://www.accuweather.com/en/id/Amarsekaru/3484645/current-weather/3484645,3 Moderate,16 km,WNW at 11 km/h,16 km/h
+3431252,Tarakan Timur,1646 m,76%,Mostly cloudy,26°,75%,1010.40 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Tarakan-Timur/3431252/current-weather/3431252,2 Low,10 km,E at 9 km/h,13 km/h
+3431631,Tarakan Barat,1646 m,76%,Mostly cloudy,26°,75%,1010.40 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Tarakan-Barat/3431631/current-weather/3431631,2 Low,10 km,E at 9 km/h,13 km/h
+3431250,Tarakan Tengah,1646 m,76%,Mostly cloudy,26°,75%,1010.40 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Tarakan-Tengah/3431250/current-weather/3431250,2 Low,10 km,E at 9 km/h,13 km/h
+3477700,Tanjung Selor Hulu,427 m,100%,Cloudy,24°,64%,1010.40 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Tanjung-Selor-Hulu/3477700/current-weather/3477700,1 Low,8 km,ENE at 9 km/h,13 km/h
+203751,Tarakan,1646 m,76%,Mostly cloudy,26°,75%,1010.40 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Tarakan/203751/current-weather/203751,2 Low,10 km,E at 9 km/h,13 km/h
+3477707,Tanjung Selor Hilir,427 m,100%,Cloudy,24°,64%,1010.40 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Tanjung-Selor-Hilir/3477707/current-weather/3477707,1 Low,8 km,ENE at 9 km/h,13 km/h
+203756,Tanjung Selor,427 m,100%,Cloudy,24°,64%,1010.40 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Tanjung-Selor/203756/current-weather/203756,1 Low,8 km,ENE at 9 km/h,13 km/h
+3477982,Tanjung Aru,1646 m,82%,A shower,22°,57%,1009.70 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Tanjung-Aru/3477982/current-weather/3477982,1 Low,11 km,NE at 12 km/h,16 km/h
+3477981,Sungai Nyamuk,1646 m,82%,A shower,22°,57%,1009.70 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Sungai-Nyamuk/3477981/current-weather/3477981,1 Low,11 km,NE at 12 km/h,16 km/h
+3477992,Selumit Pantai,1646 m,76%,Mostly cloudy,26°,75%,1010.40 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Selumit-Pantai/3477992/current-weather/3477992,2 Low,10 km,E at 9 km/h,13 km/h
+3477993,Selumit,1646 m,76%,Mostly cloudy,26°,75%,1010.40 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Selumit/3477993/current-weather/3477993,2 Low,10 km,E at 9 km/h,13 km/h
+678577,Sebengkok,1646 m,76%,Mostly cloudy,26°,75%,1010.40 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Sebengkok/678577/current-weather/678577,2 Low,10 km,E at 9 km/h,13 km/h
+3477984,Pancang,1646 m,82%,A shower,22°,57%,1009.70 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Pancang/3477984/current-weather/3477984,1 Low,11 km,NE at 12 km/h,16 km/h
+681016,Pamusian,1646 m,76%,Mostly cloudy,26°,75%,1010.40 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Pamusian/681016/current-weather/681016,2 Low,10 km,E at 9 km/h,13 km/h
+3477972,Nunukan Utara,7772 m,86%,Mostly cloudy,23°,64%,1009.80 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Nunukan-Utara/3477972/current-weather/3477972,2 Low,10 km,WNW at 12 km/h,15 km/h
+3477970,Nunukan Tengah,1646 m,82%,A shower,22°,57%,1009.70 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Nunukan-Tengah/3477970/current-weather/3477970,1 Low,11 km,NE at 12 km/h,16 km/h
+3477971,Nunukan Timur,1646 m,82%,A shower,22°,57%,1009.70 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Nunukan-Timur/3477971/current-weather/3477971,1 Low,11 km,NE at 12 km/h,16 km/h
+3477668,Malinau Hulu,610 m,91%,Cloudy,26°,72%,1010.00 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Malinau-Hulu/3477668/current-weather/3477668,1 Low,6 km,N at 10 km/h,12 km/h
+3477991,Lingkas Ujung,1646 m,76%,Mostly cloudy,26°,75%,1010.40 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Lingkas-Ujung/3477991/current-weather/3477991,2 Low,10 km,E at 9 km/h,13 km/h
+203857,Malinau Kota,610 m,91%,Cloudy,26°,72%,1010.00 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Malinau-Kota/203857/current-weather/203857,1 Low,6 km,N at 10 km/h,12 km/h
+3477985,Mamburungan,1646 m,76%,Mostly cloudy,26°,75%,1010.40 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Mamburungan/3477985/current-weather/3477985,2 Low,10 km,E at 9 km/h,13 km/h
+3477995,Karang Rejo,1646 m,76%,Mostly cloudy,26°,75%,1010.40 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Karang-Rejo/3477995/current-weather/3477995,2 Low,10 km,E at 9 km/h,13 km/h
+3477999,Karang Harapan,1646 m,76%,Mostly cloudy,26°,75%,1010.40 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Karang-Harapan/3477999/current-weather/3477999,2 Low,10 km,E at 9 km/h,13 km/h
+3477996,Karang Balik,1646 m,76%,Mostly cloudy,26°,75%,1010.40 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Karang-Balik/3477996/current-weather/3477996,2 Low,10 km,E at 9 km/h,13 km/h
+3477998,Karang Anyar Pantai,1646 m,76%,Mostly cloudy,26°,75%,1010.40 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Karang-Anyar-Pantai/3477998/current-weather/3477998,2 Low,10 km,E at 9 km/h,13 km/h
+3477997,Karang Anyar,1646 m,76%,Mostly cloudy,26°,75%,1010.40 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Karang-Anyar/3477997/current-weather/3477997,2 Low,10 km,E at 9 km/h,13 km/h
+3477968,Nunukan Barat,1646 m,82%,A shower,22°,57%,1009.70 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Nunukan-Barat/3477968/current-weather/3477968,1 Low,11 km,NE at 12 km/h,16 km/h
+3477988,Kampung Enam,1646 m,76%,Mostly cloudy,26°,75%,1010.40 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Kampung-Enam/3477988/current-weather/3477988,2 Low,10 km,E at 9 km/h,13 km/h
+3477647,Kaliamok,610 m,91%,Cloudy,26°,72%,1010.00 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Kaliamok/3477647/current-weather/3477647,1 Low,6 km,N at 10 km/h,12 km/h
+3477866,Kalam Buku,1890 m,88%,Mostly cloudy,23°,65%,1009.80 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Kalam-Buku/3477866/current-weather/3477866,1 Low,8 km,NNW at 9 km/h,12 km/h
+203837,Kalampising,396 m,91%,Cloudy,26°,77%,1010.00 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Kalampising/203837/current-weather/203837,1 Low,6 km,NNW at 10 km/h,12 km/h
+3477994,Kampung Satu Skip,1646 m,76%,Mostly cloudy,26°,75%,1010.40 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Kampung-Satu-Skip/3477994/current-weather/3477994,2 Low,10 km,E at 9 km/h,13 km/h
+3477896,Kabungalor,1890 m,88%,Mostly cloudy,23°,65%,1009.80 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Kabungalor/3477896/current-weather/3477896,1 Low,8 km,NNW at 9 km/h,12 km/h
+3477864,Jukup,457 m,89%,Mostly cloudy,24°,74%,1009.80 mbar,North Kalimantan,29°,3:38 PM,https://www.accuweather.com/en/id/Jukup/3477864/current-weather/3477864,1 Low,8 km,NNW at 11 km/h,13 km/h
+3478000,Juata Permai,1646 m,76%,Mostly cloudy,26°,75%,1010.40 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Juata-Permai/3478000/current-weather/3478000,2 Low,10 km,E at 9 km/h,13 km/h
+3478002,Juata Laut,1646 m,76%,Mostly cloudy,26°,75%,1010.40 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Juata-Laut/3478002/current-weather/3478002,2 Low,10 km,E at 9 km/h,13 km/h
+3478001,Juata Kerikil,1646 m,76%,Mostly cloudy,26°,75%,1010.40 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Juata-Kerikil/3478001/current-weather/3478001,2 Low,10 km,E at 9 km/h,13 km/h
+3477701,Jelarai Selor,427 m,100%,Cloudy,24°,64%,1010.40 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Jelarai-Selor/3477701/current-weather/3477701,1 Low,8 km,ENE at 9 km/h,13 km/h
+3477631,Harapan Maju,610 m,91%,Cloudy,26°,72%,1010.00 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Harapan-Maju/3477631/current-weather/3477631,1 Low,6 km,N at 10 km/h,12 km/h
+3477953,Harapan,9022 m,91%,Cloudy,24°,67%,1010.00 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Harapan/3477953/current-weather/3477953,2 Low,8 km,NNW at 10 km/h,13 km/h
+3477613,Halanga,396 m,91%,Cloudy,22°,71%,1009.90 mbar,North Kalimantan,28°,3:38 PM,https://www.accuweather.com/en/id/Halanga/3477613/current-weather/3477613,1 Low,6 km,N at 6 km/h,8 km/h
+3477699,Gunung Seriang,427 m,100%,Cloudy,24°,64%,1010.40 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Gunung-Seriang/3477699/current-weather/3477699,1 Low,8 km,ENE at 9 km/h,13 km/h
+3477702,Gunung Sari,427 m,100%,Cloudy,24°,64%,1010.40 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Gunung-Sari/3477702/current-weather/3477702,1 Low,8 km,ENE at 9 km/h,13 km/h
+3477990,Gunung Lingkas,1646 m,76%,Mostly cloudy,26°,75%,1010.40 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Gunung-Lingkas/3477990/current-weather/3477990,2 Low,10 km,E at 9 km/h,13 km/h
+3477750,Gunawan,396 m,91%,Cloudy,26°,77%,1010.00 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Gunawan/3477750/current-weather/3477750,1 Low,6 km,NNW at 10 km/h,12 km/h
+3477894,Duyan,640 m,89%,Mostly cloudy,21°,66%,1009.60 mbar,North Kalimantan,28°,3:38 PM,https://www.accuweather.com/en/id/Duyan/3477894/current-weather/3477894,1 Low,8 km,N at 9 km/h,14 km/h
+3477571,Dumu Mahak,1646 m,91%,Cloudy,21°,55%,1009.00 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Dumu-Mahak/3477571/current-weather/3477571,1 Low,11 km,WNW at 10 km/h,13 km/h
+3477910,Dubulon,396 m,91%,Cloudy,26°,77%,1010.00 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Dubulon/3477910/current-weather/3477910,1 Low,6 km,NNW at 10 km/h,12 km/h
+3477938,Butas Bagu,9022 m,91%,Cloudy,24°,67%,1010.00 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Butas-Bagu/3477938/current-weather/3477938,2 Low,8 km,NNW at 10 km/h,13 km/h
+3477744,Bunyu Selatan,1646 m,76%,Mostly cloudy,26°,75%,1010.40 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Bunyu-Selatan/3477744/current-weather/3477744,2 Low,10 km,E at 9 km/h,13 km/h
+3477573,Data Baru,1494 m,98%,Cloudy,21°,58%,1009.20 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Data-Baru/3477573/current-weather/3477573,1 Low,3 km,NW at 16 km/h,19 km/h
+3477589,Data Dian,1646 m,87%,Mostly cloudy,22°,76%,1009.30 mbar,North Kalimantan,26°,3:38 PM,https://www.accuweather.com/en/id/Data-Dian/3477589/current-weather/3477589,1 Low,10 km,E at 0 km/h,2 km/h
+3477907,Deralon,396 m,91%,Cloudy,26°,77%,1010.00 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Deralon/3477907/current-weather/3477907,1 Low,6 km,NNW at 10 km/h,12 km/h
+3477627,Gong Solok,610 m,91%,Cloudy,26°,72%,1010.00 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Gong-Solok/3477627/current-weather/3477627,1 Low,6 km,N at 10 km/h,12 km/h
+3477798,Cinglat,640 m,87%,Mostly cloudy,21°,73%,1009.30 mbar,North Kalimantan,26°,3:38 PM,https://www.accuweather.com/en/id/Cinglat/3477798/current-weather/3477798,1 Low,10 km,N at 11 km/h,16 km/h
+3477745,Bunyu Timur,1646 m,76%,Mostly cloudy,26°,75%,1010.40 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Bunyu-Timur/3477745/current-weather/3477745,2 Low,10 km,E at 9 km/h,13 km/h
+3477703,Bumi Rahayu,427 m,100%,Cloudy,24°,64%,1010.40 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Bumi-Rahayu/3477703/current-weather/3477703,1 Low,8 km,ENE at 9 km/h,13 km/h
+3477856,Bulu Mengelom,396 m,91%,Cloudy,26°,77%,1010.00 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Bulu-Mengelom/3477856/current-weather/3477856,1 Low,6 km,NNW at 10 km/h,12 km/h
+3477884,Bulu Laun Hilir,457 m,89%,Mostly cloudy,24°,74%,1009.80 mbar,North Kalimantan,29°,3:38 PM,https://www.accuweather.com/en/id/Bulu-Laun-Hilir/3477884/current-weather/3477884,1 Low,8 km,NNW at 11 km/h,13 km/h
+3477743,Bunyu Barat,1646 m,76%,Mostly cloudy,26°,75%,1010.40 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Bunyu-Barat/3477743/current-weather/3477743,2 Low,10 km,E at 9 km/h,13 km/h
+3477730,Bunau,1646 m,91%,Cloudy,24°,73%,1010.10 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Bunau/3477730/current-weather/3477730,1 Low,8 km,NNW at 10 km/h,12 km/h
+3477916,Bulan Bulan,396 m,91%,Cloudy,26°,77%,1010.00 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Bulan-Bulan/3477916/current-weather/3477916,1 Low,6 km,NNW at 10 km/h,12 km/h
+3477898,Bulu Laun Hulu,1646 m,88%,Mostly cloudy,20°,61%,1009.50 mbar,North Kalimantan,28°,3:38 PM,https://www.accuweather.com/en/id/Bulu-Laun-Hulu/3477898/current-weather/3477898,1 Low,10 km,N at 10 km/h,17 km/h
+3477831,Bungayan,640 m,89%,Thunderstorm,22°,84%,1009.60 mbar,North Kalimantan,24°,3:38 PM,https://www.accuweather.com/en/id/Bungayan/3477831/current-weather/3477831,1 Low,5 km,N at 12 km/h,16 km/h
+3477795,Buduk Kubul,640 m,87%,Mostly cloudy,21°,73%,1009.30 mbar,North Kalimantan,26°,3:38 PM,https://www.accuweather.com/en/id/Buduk-Kubul/3477795/current-weather/3477795,1 Low,10 km,N at 11 km/h,16 km/h
+3477821,Buduk Tumu,640 m,87%,Mostly cloudy,21°,73%,1009.30 mbar,North Kalimantan,26°,3:38 PM,https://www.accuweather.com/en/id/Buduk-Tumu/3477821/current-weather/3477821,1 Low,10 km,N at 11 km/h,16 km/h
+3477756,Buang Baru,1646 m,91%,Cloudy,24°,73%,1010.10 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Buang-Baru/3477756/current-weather/3477756,1 Low,8 km,NNW at 10 km/h,12 km/h
+3477930,Binanun,396 m,91%,Cloudy,26°,77%,1010.00 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Binanun/3477930/current-weather/3477930,1 Low,6 km,NNW at 10 km/h,12 km/h
+3477787,Binuang,640 m,89%,Thunderstorm,22°,84%,1009.60 mbar,North Kalimantan,24°,3:38 PM,https://www.accuweather.com/en/id/Binuang/3477787/current-weather/3477787,1 Low,5 km,N at 12 km/h,16 km/h
+3477827,Buduk Kinangan,640 m,87%,Mostly cloudy,20°,78%,1009.30 mbar,North Kalimantan,24°,3:38 PM,https://www.accuweather.com/en/id/Buduk-Kinangan/3477827/current-weather/3477827,1 Low,10 km,N at 14 km/h,19 km/h
+3477969,Binusan,1646 m,82%,A shower,22°,57%,1009.70 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Binusan/3477969/current-weather/3477969,1 Low,11 km,NE at 12 km/h,16 km/h
+3477889,Bokok,1890 m,88%,Mostly cloudy,23°,65%,1009.80 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Bokok/3477889/current-weather/3477889,1 Low,8 km,NNW at 9 km/h,12 km/h
+3477978,Binalawan,1646 m,82%,A shower,22°,57%,1009.70 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Binalawan/3477978/current-weather/3477978,1 Low,11 km,NE at 12 km/h,16 km/h
+3477709,Binai,1615 m,94%,Cloudy,25°,73%,1009.70 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Binai/3477709/current-weather/3477709,1 Low,8 km,ENE at 11 km/h,13 km/h
+3477652,Belayan,396 m,91%,Cloudy,26°,77%,1010.00 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Belayan/3477652/current-weather/3477652,1 Low,6 km,NNW at 10 km/h,12 km/h
+3477620,Bila Bekayuk,610 m,91%,Cloudy,26°,72%,1010.00 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Bila-Bekayuk/3477620/current-weather/3477620,1 Low,6 km,N at 10 km/h,12 km/h
+3477734,Bekiliu,1646 m,91%,Cloudy,24°,73%,1010.10 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Bekiliu/3477734/current-weather/3477734,1 Low,8 km,NNW at 10 km/h,12 km/h
+3477955,Belatikan,457 m,89%,Mostly cloudy,24°,74%,1009.80 mbar,North Kalimantan,29°,3:38 PM,https://www.accuweather.com/en/id/Belatikan/3477955/current-weather/3477955,1 Low,8 km,NNW at 11 km/h,13 km/h
+3477761,Bebatu,1646 m,91%,Cloudy,24°,73%,1010.10 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Bebatu/3477761/current-weather/3477761,1 Low,8 km,NNW at 10 km/h,12 km/h
+3477948,Bebanas,9022 m,91%,Cloudy,24°,67%,1010.00 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Bebanas/3477948/current-weather/3477948,2 Low,8 km,NNW at 10 km/h,13 km/h
+3477755,Bebakung,1646 m,91%,Cloudy,24°,73%,1010.10 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Bebakung/3477755/current-weather/3477755,1 Low,8 km,NNW at 10 km/h,12 km/h
+3477664,Batu Lidung,610 m,91%,Cloudy,26°,72%,1010.00 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Batu-Lidung/3477664/current-weather/3477664,1 Low,6 km,N at 10 km/h,12 km/h
+3477857,Batung,457 m,89%,Mostly cloudy,24°,74%,1009.80 mbar,North Kalimantan,29°,3:38 PM,https://www.accuweather.com/en/id/Batung/3477857/current-weather/3477857,1 Low,8 km,NNW at 11 km/h,13 km/h
+3477760,Bandan Bikis,1646 m,91%,Cloudy,24°,73%,1010.10 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Bandan-Bikis/3477760/current-weather/3477760,1 Low,8 km,NNW at 10 km/h,12 km/h
+3477626,Batu Kajang,610 m,91%,Cloudy,26°,72%,1010.00 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Batu-Kajang/3477626/current-weather/3477626,1 Low,6 km,N at 10 km/h,12 km/h
+3477847,Ba Sikor,640 m,89%,Thunderstorm,22°,84%,1009.60 mbar,North Kalimantan,24°,3:38 PM,https://www.accuweather.com/en/id/Ba-Sikor/3477847/current-weather/3477847,1 Low,5 km,N at 12 km/h,16 km/h
+3477736,Bambang,1646 m,91%,Cloudy,24°,73%,1010.10 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Bambang/3477736/current-weather/3477736,1 Low,8 km,NNW at 10 km/h,12 km/h
+3477786,Ba Liku,640 m,81%,A shower,23°,81%,1009.50 mbar,North Kalimantan,26°,3:38 PM,https://www.accuweather.com/en/id/Ba-Liku/3477786/current-weather/3477786,1 Low,6 km,E at 1 km/h,2 km/h
+203764,Atap,9022 m,91%,Cloudy,24°,67%,1010.00 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Atap/203764/current-weather/203764,2 Low,8 km,NNW at 10 km/h,13 km/h
+3477704,Apung,427 m,100%,Cloudy,24°,64%,1010.40 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Apung/3477704/current-weather/3477704,1 Low,8 km,ENE at 9 km/h,13 km/h
+3477722,Ardi Mulya,1646 m,91%,Cloudy,24°,73%,1010.10 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Ardi-Mulya/3477722/current-weather/3477722,1 Low,8 km,NNW at 10 km/h,12 km/h
+3477952,Apas,9022 m,91%,Cloudy,24°,67%,1010.00 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Apas/3477952/current-weather/3477952,2 Low,8 km,NNW at 10 km/h,13 km/h
+3477690,Antutan,427 m,100%,Cloudy,24°,64%,1010.40 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Antutan/3477690/current-weather/3477690,1 Low,8 km,ENE at 9 km/h,13 km/h
+3477603,Apau Ping,640 m,87%,Mostly cloudy,20°,73%,1009.60 mbar,North Kalimantan,25°,3:38 PM,https://www.accuweather.com/en/id/Apau-Ping/3477603/current-weather/3477603,1 Low,6 km,NNE at 1 km/h,2 km/h
+3431312,Ternate Selatan,1646 m,38%,Partly sunny,26°,79%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Ternate-Selatan/3431312/current-weather/3431312,2 Low,16 km,NW at 17 km/h,23 km/h
+3431311,Ternate Tengah,1646 m,38%,Partly sunny,26°,79%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Ternate-Tengah/3431311/current-weather/3431311,2 Low,16 km,NW at 17 km/h,23 km/h
+203824,Ambalat,1646 m,91%,Cloudy,24°,73%,1010.10 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Ambalat/203824/current-weather/203824,1 Low,8 km,NNW at 10 km/h,12 km/h
+3477575,Agung Baru,1494 m,98%,Cloudy,21°,58%,1009.20 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Agung-Baru/3477575/current-weather/3477575,1 Low,3 km,NW at 16 km/h,19 km/h
+3477983,Aji Kuning,1646 m,82%,A shower,22°,57%,1009.70 mbar,North Kalimantan,31°,3:38 PM,https://www.accuweather.com/en/id/Aji-Kuning/3477983/current-weather/3477983,1 Low,11 km,NE at 12 km/h,16 km/h
+3477731,Anjar Arip,1646 m,91%,Cloudy,24°,73%,1010.10 mbar,North Kalimantan,30°,3:38 PM,https://www.accuweather.com/en/id/Anjar-Arip/3477731/current-weather/3477731,1 Low,8 km,NNW at 10 km/h,12 km/h
+3485126,Tanjung Obit,1646 m,39%,Partly sunny,23°,64%,1008.80 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tanjung-Obit/3485126/current-weather/3485126,2 Low,16 km,NNW at 11 km/h,17 km/h
+204989,Ternate,1646 m,38%,Partly sunny,26°,79%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Ternate/204989/current-weather/204989,2 Low,16 km,NW at 17 km/h,23 km/h
+3485584,Tanah Raja,1646 m,38%,Partly sunny,26°,79%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tanah-Raja/3485584/current-weather/3485584,2 Low,16 km,NW at 17 km/h,23 km/h
+3485579,Tanah Tinggi Barat,1646 m,38%,Partly sunny,26°,79%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tanah-Tinggi-Barat/3485579/current-weather/3485579,2 Low,16 km,NW at 17 km/h,23 km/h
+3485573,Tanah Tinggi,1646 m,38%,Partly sunny,26°,79%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tanah-Tinggi/3485573/current-weather/3485573,2 Low,16 km,NW at 17 km/h,23 km/h
+3485367,Tanjung Niara,1646 m,75%,Hazy sunshine,24°,68%,1009.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tanjung-Niara/3485367/current-weather/3485367,1 Low,16 km,E at 9 km/h,12 km/h
+677699,Talapao,1646 m,87%,Mostly cloudy,23°,67%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Talapao/677699/current-weather/677699,1 Low,16 km,NW at 10 km/h,14 km/h
+3485506,Tallo,1981 m,47%,Partly sunny,24°,67%,1008.30 mbar,North Maluku,31°,4:38 PM,https://www.accuweather.com/en/id/Tallo/3485506/current-weather/3485506,2 Low,11 km,N at 8 km/h,11 km/h
+3485253,Tanjung Jere,1646 m,28%,Mostly sunny,23°,59%,1008.90 mbar,North Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Tanjung-Jere/3485253/current-weather/3485253,2 Low,16 km,NW at 14 km/h,20 km/h
+3485176,Talimau,1646 m,60%,Clouds and sun,24°,64%,1008.80 mbar,North Maluku,31°,4:38 PM,https://www.accuweather.com/en/id/Talimau/3485176/current-weather/3485176,1 Low,16 km,NNE at 14 km/h,21 km/h
+3485281,Talapao,1646 m,79%,Mostly cloudy,22°,60%,1009.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Talapao/3485281/current-weather/3485281,1 Low,16 km,NW at 13 km/h,18 km/h
+3484944,Talaga,1646 m,79%,Mostly cloudy,24°,68%,1009.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Talaga/3484944/current-weather/3484944,1 Low,16 km,NE at 12 km/h,17 km/h
+677747,Takome,1646 m,38%,Partly sunny,26°,79%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Takome/677747/current-weather/677747,2 Low,16 km,NW at 17 km/h,23 km/h
+3485582,Takoma,1646 m,38%,Partly sunny,26°,79%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Takoma/3485582/current-weather/3485582,2 Low,16 km,NW at 17 km/h,23 km/h
+3485322,Takimo,1646 m,85%,Mostly cloudy,23°,75%,1009.00 mbar,North Maluku,28°,4:38 PM,https://www.accuweather.com/en/id/Takimo/3485322/current-weather/3485322,1 Low,16 km,NW at 10 km/h,15 km/h
+677749,Takofi,1646 m,87%,Mostly cloudy,23°,67%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Takofi/677749/current-weather/677749,1 Low,16 km,NW at 10 km/h,14 km/h
+3485268,Tahane,1646 m,79%,Mostly cloudy,22°,60%,1009.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tahane/3485268/current-weather/3485268,1 Low,16 km,NW at 13 km/h,18 km/h
+205100,Tahafo,1646 m,79%,Mostly cloudy,24°,68%,1009.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tahafo/205100/current-weather/205100,1 Low,16 km,NE at 12 km/h,17 km/h
+3485278,Tagono,1646 m,79%,Mostly cloudy,22°,60%,1009.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tagono/3485278/current-weather/3485278,1 Low,16 km,NW at 13 km/h,18 km/h
+3485260,Tagea,1646 m,28%,Mostly sunny,20°,56%,1008.90 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tagea/3485260/current-weather/3485260,2 Low,16 km,WNW at 13 km/h,19 km/h
+3485361,Tagalaya,1646 m,75%,Hazy sunshine,24°,68%,1009.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tagalaya/3485361/current-weather/3485361,1 Low,16 km,E at 9 km/h,12 km/h
+3485640,Tagalaya,1646 m,28%,Mostly sunny,23°,59%,1008.90 mbar,North Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Tagalaya/3485640/current-weather/3485640,2 Low,16 km,NW at 14 km/h,20 km/h
+3485599,Tafure,1646 m,38%,Partly sunny,26°,79%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tafure/3485599/current-weather/3485599,2 Low,16 km,NW at 17 km/h,23 km/h
+677778,Tafraka,1646 m,38%,Partly sunny,26°,79%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tafraka/677778/current-weather/677778,2 Low,16 km,NW at 17 km/h,23 km/h
+3485339,Talaga Paca,1646 m,75%,Hazy sunshine,24°,68%,1009.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Talaga-Paca/3485339/current-weather/3485339,1 Low,16 km,E at 9 km/h,12 km/h
+3485556,Tafamutu,1646 m,87%,Mostly cloudy,23°,67%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tafamutu/3485556/current-weather/3485556,1 Low,16 km,NW at 10 km/h,14 km/h
+3485280,Tafasoho,1646 m,79%,Mostly cloudy,22°,60%,1009.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tafasoho/3485280/current-weather/3485280,1 Low,16 km,NW at 13 km/h,18 km/h
+3485654,Tadupi,1646 m,87%,Mostly cloudy,23°,67%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tadupi/3485654/current-weather/3485654,1 Low,16 km,NW at 10 km/h,14 km/h
+3485554,Tadenas,1646 m,87%,Mostly cloudy,23°,67%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tadenas/3485554/current-weather/3485554,1 Low,16 km,NW at 10 km/h,14 km/h
+677791,Tacici,1646 m,79%,Mostly cloudy,24°,68%,1009.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tacici/677791/current-weather/677791,1 Low,16 km,NE at 12 km/h,17 km/h
+205099,Tafaga,1646 m,87%,Mostly cloudy,23°,67%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tafaga/205099/current-weather/205099,1 Low,16 km,NW at 10 km/h,14 km/h
+677790,Tacim,1646 m,79%,Mostly cloudy,24°,68%,1009.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tacim/677790/current-weather/677790,1 Low,16 km,NE at 12 km/h,17 km/h
+3485576,Tabona,1646 m,38%,Partly sunny,26°,79%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tabona/3485576/current-weather/3485576,2 Low,16 km,NW at 17 km/h,23 km/h
+3484898,Taboso,1646 m,79%,Mostly cloudy,24°,68%,1009.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Taboso/3484898/current-weather/3484898,1 Low,16 km,NE at 12 km/h,17 km/h
+3485520,Tabona,1981 m,45%,Partly sunny,24°,65%,1008.40 mbar,North Maluku,31°,4:38 PM,https://www.accuweather.com/en/id/Tabona/3485520/current-weather/3485520,2 Low,11 km,N at 8 km/h,10 km/h
+677802,Tabobol,1646 m,85%,Mostly cloudy,23°,75%,1009.00 mbar,North Maluku,28°,4:38 PM,https://www.accuweather.com/en/id/Tabobol/677802/current-weather/677802,1 Low,16 km,NW at 10 km/h,15 km/h
+3485283,Tabobo,1646 m,79%,Mostly cloudy,22°,60%,1009.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tabobo/3485283/current-weather/3485283,1 Low,16 km,NW at 13 km/h,18 km/h
+3485141,Tabapoma,1646 m,36%,Partly sunny,23°,67%,1008.90 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tabapoma/3485141/current-weather/3485141,2 Low,16 km,W at 12 km/h,18 km/h
+3485295,Tabanoma,1646 m,88%,Mostly cloudy,23°,63%,1010.00 mbar,North Maluku,31°,4:38 PM,https://www.accuweather.com/en/id/Tabanoma/3485295/current-weather/3485295,1 Low,16 km,N at 9 km/h,13 km/h
+3485422,Tabanalou,1646 m,88%,Mostly cloudy,23°,63%,1010.00 mbar,North Maluku,31°,4:38 PM,https://www.accuweather.com/en/id/Tabanalou/3485422/current-weather/3485422,1 Low,16 km,N at 9 km/h,13 km/h
+3485137,Tabangame,1646 m,40%,Partly sunny,23°,57%,1008.90 mbar,North Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Tabangame/3485137/current-weather/3485137,2 Low,16 km,W at 10 km/h,17 km/h
+677815,Tabam,1646 m,38%,Partly sunny,26°,79%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tabam/677815/current-weather/677815,2 Low,16 km,NW at 17 km/h,23 km/h
+3485218,Tabamasa,1646 m,28%,Mostly sunny,20°,56%,1008.90 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tabamasa/3485218/current-weather/3485218,2 Low,16 km,WNW at 13 km/h,19 km/h
+3485109,Tabalema,1646 m,39%,Partly sunny,23°,64%,1008.80 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tabalema/3485109/current-weather/3485109,2 Low,16 km,NNW at 11 km/h,17 km/h
+3485138,Tabajaya,1646 m,36%,Partly sunny,23°,67%,1008.90 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tabajaya/3485138/current-weather/3485138,2 Low,16 km,W at 12 km/h,18 km/h
+3485263,Tabahijrah,1646 m,28%,Mostly sunny,23°,59%,1008.90 mbar,North Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Tabahijrah/3485263/current-weather/3485263,2 Low,16 km,NW at 14 km/h,20 km/h
+3484914,Tabadamai,1646 m,88%,Mostly cloudy,23°,63%,1010.00 mbar,North Maluku,31°,4:38 PM,https://www.accuweather.com/en/id/Tabadamai/3484914/current-weather/3484914,1 Low,16 km,N at 9 km/h,13 km/h
+3484930,Taba Campaka,1646 m,79%,Mostly cloudy,24°,68%,1009.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Taba-Campaka/3484930/current-weather/3484930,1 Low,16 km,NE at 12 km/h,17 km/h
+677837,Susupu,1646 m,79%,Mostly cloudy,24°,68%,1009.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Susupu/677837/current-weather/677837,1 Low,16 km,NE at 12 km/h,17 km/h
+3485257,Tabahidayah,1646 m,28%,Mostly sunny,20°,56%,1008.90 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Tabahidayah/3485257/current-weather/3485257,2 Low,16 km,WNW at 13 km/h,19 km/h
+205092,Susepe,1646 m,36%,Partly sunny,23°,73%,1008.80 mbar,North Maluku,28°,4:38 PM,https://www.accuweather.com/en/id/Susepe/205092/current-weather/205092,2 Low,16 km,WNW at 16 km/h,24 km/h
+3485517,Sumbong,1981 m,45%,Partly sunny,24°,65%,1008.40 mbar,North Maluku,31°,4:38 PM,https://www.accuweather.com/en/id/Sumbong/3485517/current-weather/3485517,2 Low,11 km,N at 8 km/h,10 km/h
+205098,Supu,1646 m,88%,Mostly cloudy,24°,70%,1009.10 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Supu/205098/current-weather/205098,1 Low,16 km,SSE at 8 km/h,11 km/h
+3484972,Sumber Sari,1646 m,28%,Mostly sunny,23°,59%,1008.90 mbar,North Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Sumber-Sari/3484972/current-weather/3484972,2 Low,16 km,NW at 14 km/h,20 km/h
+3485309,Sumber Agung,1646 m,79%,Mostly cloudy,22°,60%,1009.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Sumber-Agung/3485309/current-weather/3485309,1 Low,16 km,NW at 13 km/h,18 km/h
+3485248,Sumber Makmur,1646 m,28%,Mostly sunny,23°,59%,1008.90 mbar,North Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Sumber-Makmur/3485248/current-weather/3485248,2 Low,16 km,NW at 14 km/h,20 km/h
+3485101,Sumae,1646 m,39%,Partly sunny,23°,64%,1008.80 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Sumae/3485101/current-weather/3485101,2 Low,16 km,NNW at 11 km/h,17 km/h
+3485107,Suma Tinggi,1646 m,40%,Partly sunny,23°,57%,1008.90 mbar,North Maluku,33°,4:38 PM,https://www.accuweather.com/en/id/Suma-Tinggi/3485107/current-weather/3485107,2 Low,16 km,W at 10 km/h,17 km/h
+3485088,Sum,1646 m,36%,Partly sunny,23°,73%,1008.80 mbar,North Maluku,28°,4:38 PM,https://www.accuweather.com/en/id/Sum/3485088/current-weather/3485088,2 Low,16 km,WNW at 16 km/h,24 km/h
+678087,Sulamadaha,1646 m,38%,Partly sunny,26°,79%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Sulamadaha/678087/current-weather/678087,2 Low,16 km,NW at 17 km/h,23 km/h
+3485345,Sukamaju,1646 m,75%,Hazy sunshine,24°,68%,1009.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Sukamaju/3485345/current-weather/3485345,1 Low,16 km,E at 9 km/h,12 km/h
+3485246,Suka Maju,1646 m,28%,Mostly sunny,23°,59%,1008.90 mbar,North Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Suka-Maju/3485246/current-weather/3485246,2 Low,16 km,NW at 14 km/h,20 km/h
+3485230,Suka Damai,1646 m,28%,Mostly sunny,23°,59%,1008.90 mbar,North Maluku,32°,4:38 PM,https://www.accuweather.com/en/id/Suka-Damai/3485230/current-weather/3485230,2 Low,16 km,NW at 14 km/h,20 km/h
+205097,Subaim,1646 m,79%,Mostly cloudy,22°,60%,1009.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Subaim/205097/current-weather/205097,1 Low,16 km,NW at 13 km/h,18 km/h
+3485585,Stadion,1646 m,38%,Partly sunny,26°,79%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Stadion/3485585/current-weather/3485585,2 Low,16 km,NW at 17 km/h,23 km/h
+678188,Sosowomo,1646 m,54%,Clouds and sun,23°,65%,1008.90 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Sosowomo/678188/current-weather/678188,1 Low,16 km,WNW at 12 km/h,19 km/h
+3485458,Sosolat,1646 m,32%,Partly sunny,23°,64%,1009.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Sosolat/3485458/current-weather/3485458,2 Low,16 km,ENE at 11 km/h,17 km/h
+3485285,Sosol,1646 m,79%,Mostly cloudy,22°,60%,1009.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Sosol/3485285/current-weather/3485285,1 Low,16 km,NW at 13 km/h,18 km/h
+205096,Sopi,1646 m,75%,Hazy sunshine,22°,69%,1009.20 mbar,North Maluku,28°,4:38 PM,https://www.accuweather.com/en/id/Sopi/205096/current-weather/205096,1 Low,16 km,ESE at 6 km/h,8 km/h
+3485641,Somahode,1646 m,38%,Partly sunny,26°,79%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Somahode/3485641/current-weather/3485641,2 Low,16 km,NW at 17 km/h,23 km/h
+205095,Songa,1646 m,36%,Partly sunny,23°,67%,1008.90 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Songa/205095/current-weather/205095,2 Low,16 km,W at 12 km/h,18 km/h
+3484989,Sonof Kacepo,1646 m,28%,Mostly sunny,22°,67%,1008.90 mbar,North Maluku,29°,4:38 PM,https://www.accuweather.com/en/id/Sonof-Kacepo/3484989/current-weather/3484989,2 Low,16 km,NE at 12 km/h,17 km/h
+3485277,Soma,1646 m,79%,Mostly cloudy,22°,60%,1009.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Soma/3485277/current-weather/3485277,1 Low,16 km,NW at 13 km/h,18 km/h
+678255,Sofifi,1646 m,88%,Mostly cloudy,23°,63%,1010.00 mbar,North Maluku,31°,4:38 PM,https://www.accuweather.com/en/id/Sofifi/678255/current-weather/678255,1 Low,16 km,N at 9 km/h,13 km/h
+3485071,Soligi,1737 m,35%,Partly sunny,23°,66%,1008.80 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Soligi/3485071/current-weather/3485071,2 Low,16 km,WNW at 13 km/h,19 km/h
+3485598,Sangaji,1646 m,38%,Partly sunny,26°,79%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Sangaji/3485598/current-weather/3485598,2 Low,16 km,NW at 17 km/h,23 km/h
+3431313,Pulau Ternate,1646 m,38%,Partly sunny,26°,79%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Pulau-Ternate/3431313/current-weather/3431313,2 Low,16 km,NW at 17 km/h,23 km/h
+3431318,Oba Utara,1646 m,38%,Partly sunny,26°,79%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Oba-Utara/3431318/current-weather/3431318,2 Low,16 km,NW at 17 km/h,23 km/h
+3431335,Oba,1646 m,54%,Clouds and sun,23°,65%,1008.90 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Oba/3431335/current-weather/3431335,1 Low,16 km,WNW at 12 km/h,19 km/h
+3431330,Oba Tengah,1646 m,87%,Mostly cloudy,23°,67%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Oba-Tengah/3431330/current-weather/3431330,1 Low,16 km,NW at 10 km/h,14 km/h
+3485580,Maliaro,1646 m,38%,Partly sunny,26°,79%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Maliaro/3485580/current-weather/3485580,2 Low,16 km,NW at 17 km/h,23 km/h
+682439,Marikurubu,1646 m,38%,Partly sunny,26°,79%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Marikurubu/682439/current-weather/682439,2 Low,16 km,NW at 17 km/h,23 km/h
+875,Labuha,1646 m,39%,Partly sunny,23°,64%,1008.80 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Labuha/875/current-weather/875,2 Low,16 km,NNW at 11 km/h,17 km/h
+3485568,Kayu Merah,1646 m,38%,Partly sunny,26°,79%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Kayu-Merah/3485568/current-weather/3485568,2 Low,16 km,NW at 17 km/h,23 km/h
+684901,Kalumata,1646 m,38%,Partly sunny,26°,79%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Kalumata/684901/current-weather/684901,2 Low,16 km,NW at 17 km/h,23 km/h
+685785,Gosoma,1646 m,75%,Hazy sunshine,24°,68%,1009.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Gosoma/685785/current-weather/685785,1 Low,16 km,E at 9 km/h,12 km/h
+204991,Galela,1646 m,91%,Cloudy,25°,72%,1009.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Galela/204991/current-weather/204991,1 Low,16 km,ESE at 5 km/h,7 km/h
+3485353,Gamsungi,1646 m,75%,Hazy sunshine,24°,68%,1009.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Gamsungi/3485353/current-weather/3485353,1 Low,16 km,E at 9 km/h,12 km/h
+3485060,Falabisahaya,1981 m,35%,Partly sunny,23°,61%,1008.50 mbar,North Maluku,31°,4:38 PM,https://www.accuweather.com/en/id/Falabisahaya/3485060/current-weather/3485060,2 Low,16 km,NNE at 8 km/h,11 km/h
+686321,Dufa Dufa,1646 m,38%,Partly sunny,26°,79%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Dufa-Dufa/686321/current-weather/686321,2 Low,16 km,NW at 17 km/h,23 km/h
+3485569,Bastiong Talangame,1646 m,38%,Partly sunny,26°,79%,1010.00 mbar,North Maluku,30°,4:38 PM,https://www.accuweather.com/en/id/Bastiong-Talangame/3485569/current-weather/3485569,2 Low,16 km,NW at 17 km/h,23 km/h
+1896524,Wenang,1311 m,35%,Partly sunny,24°,69%,1010.00 mbar,North Sulawesi,30°,3:38 PM,https://www.accuweather.com/en/id/Wenang/1896524/current-weather/1896524,3 Moderate,16 km,N at 13 km/h,13 km/h
+3478731,Wangurer Barat,1646 m,63%,Clouds and sun,23°,61%,1010.00 mbar,North Sulawesi,31°,3:38 PM,https://www.accuweather.com/en/id/Wangurer-Barat/3478731/current-weather/3478731,2 Low,11 km,E at 9 km/h,20 km/h
+1915790,Tuminting,1311 m,35%,Partly sunny,24°,69%,1010.00 mbar,North Sulawesi,30°,3:38 PM,https://www.accuweather.com/en/id/Tuminting/1915790/current-weather/1915790,3 Moderate,16 km,N at 13 km/h,13 km/h
+206055,Tondano,1463 m,83%,Mostly cloudy,23°,90%,1009.10 mbar,North Sulawesi,24°,3:38 PM,https://www.accuweather.com/en/id/Tondano/206055/current-weather/206055,1 Low,11 km,W at 24 km/h,42 km/h
+1983119,Wanea,1311 m,35%,Partly sunny,24°,69%,1010.00 mbar,North Sulawesi,30°,3:38 PM,https://www.accuweather.com/en/id/Wanea/1983119/current-weather/1983119,3 Moderate,16 km,N at 13 km/h,13 km/h
+3431291,Tomohon Utara,1463 m,83%,Mostly cloudy,23°,90%,1009.10 mbar,North Sulawesi,24°,3:38 PM,https://www.accuweather.com/en/id/Tomohon-Utara/3431291/current-weather/3431291,1 Low,11 km,W at 24 km/h,42 km/h
+3431293,Tomohon Timur,1463 m,83%,Mostly cloudy,23°,90%,1009.10 mbar,North Sulawesi,24°,3:38 PM,https://www.accuweather.com/en/id/Tomohon-Timur/3431293/current-weather/3431293,1 Low,11 km,W at 24 km/h,42 km/h
+3431294,Tomohon Tengah,1463 m,83%,Mostly cloudy,23°,90%,1009.10 mbar,North Sulawesi,24°,3:38 PM,https://www.accuweather.com/en/id/Tomohon-Tengah/3431294/current-weather/3431294,1 Low,11 km,W at 24 km/h,42 km/h
+3431296,Tomohon Selatan,1463 m,83%,Mostly cloudy,23°,90%,1009.10 mbar,North Sulawesi,24°,3:38 PM,https://www.accuweather.com/en/id/Tomohon-Selatan/3431296/current-weather/3431296,1 Low,11 km,W at 24 km/h,42 km/h
+3431632,Tomohon Barat,335 m,96%,Thunderstorm,24°,86%,1010.00 mbar,North Sulawesi,27°,3:38 PM,https://www.accuweather.com/en/id/Tomohon-Barat/3431632/current-weather/3431632,1 Low,11 km,NNW at 13 km/h,17 km/h
